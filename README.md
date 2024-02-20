@@ -2,7 +2,7 @@
 
 **Problem**
 
-My friend Adam is passionate about fitness and wants to venture into the fitness industry by opening a gym or fitness center. However, he faces a challenge in determining the optimal location within a bustling city that can attract a broad audience and generate substantial profits. To assist him in this endeavor, I've decided to use my data science expertise to identify the ideal location.
+My friend Rahul is passionate about fitness and wants to venture into the fitness industry by opening a gym or fitness center. However, he faces a challenge in determining the optimal location within a bustling city that can attract a broad audience and generate substantial profits. To assist him in this endeavor, I've decided to use my data science expertise to identify the ideal location.
 
 I have sourced the latest demographic data  of the city from publicly avaiable website - Link below
 https://open.toronto.ca/dataset/neighbourhood-profiles/
