@@ -1,4 +1,4 @@
-# Best-Gym-Location
+# Finding-the-best-location-to-open-a-Gym
 
 **Problem**
 
